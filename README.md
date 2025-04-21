@@ -13,5 +13,5 @@ Eine einfache und minimalistische To-Do Liste im Browser – komplett mit HTML, 
 
 1. Repo klonen:
    ```bash
-   git clone https://github.com/deinname/todo-app.git
+   git clone https://github.com/fambosyt/todo-app.git
    cd todo-app
